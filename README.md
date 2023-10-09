@@ -1,10 +1,10 @@
-<!-- Header -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#EAEAEA&height=230&section=header&text=Sohyeon's&fontColor=ffffff&descAlignY=51&descAlign=50)
   </a>
 </p>
 
 ### 안녕하세요, 백엔드 개발자 구소현입니다 :)
-<!-- Body -->
+
 
 ## 📚 Tech Stack
 |Frontend||
