@@ -60,7 +60,7 @@
 | __기획__ | 비즈니스 서비스 아이디어 기획, Github Organization 기획, 백엔드 기술스택 정의 |
 | __설계__ | MySQL기반 모델링/ORM 설계, 프론트 UI/UX, REST API 설계, AWS 서비스 운영 시스템 설계 |
 | __개발__ | Spring Boot 기반의 백엔드 개발, OpenAPI Raw 데이터 전처리, Docker/Jenkins 기반 CI/CD 구축, Swagger 이용한 API 문서화 |
-| __테스트__ | Postman 단위 테스트, 통합 테스트 및 트러블 슈팅, RDS 연동 테스트 |
+| __테스트__ | Postman 단위 테스트, 통합 테스트 및 트러블 슈팅, RDS 연동 테스트, 모니터링 |
 
 
 **주요 성과**
